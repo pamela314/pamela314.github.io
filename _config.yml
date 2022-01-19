@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pamela Ferretti / Site Title"
+title                    : "Pamela Ferretti"
 title_separator          : "-"
 name                     : &name "Pamela Ferretti"
 description              : &description "personal description"
@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Pamela Ferretti"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Germany"
+  bio              : "Computational biologist with a passion for microbes"
+  location         : "Heidelberg, Germany"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=pamela+ferretti"
   googlescholar    : "https://scholar.google.com/citations?user=qty8iCEAAAAJ"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Pamela-Ferretti-2"
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : #"academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/pamela-ferretti-630ab4101/"
   orcid            : "https://orcid.org/0000-0002-1707-9013"
   pinterest        :
   soundcloud       :
