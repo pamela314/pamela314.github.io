@@ -11,21 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, University of Trento, 2014
+* M.S. in Cellular and Molecular Biotechnology, University of Trento, 2016
+* Ph.D in Computational Biology, EMBL Heidelberg, 2021
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* January - May 2021: Bridging Postdoctoral Researcher
+  * EMBL Heidelberg
+  * Supervisors: Peer Bork and Sebastian Schmidt
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017-2021: PhD Student
+  * EMBL Heidelberg
+  * Supervisors: Peer Bork and Sebastian Schmidt
+  * Research Topic: Study of Clostridioides difficile across life time, geography, health and disease.
+
+* 2016-2017: Research Assistant
+  * University of Trento
+  * Supervisor: Nicola Segata
+  * Research Topic: Vertical microbiome transmission and healthy infant microbiome development.
   
 Skills
 ======
@@ -54,6 +58,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+#Service and leadership
+#======
+#* Currently signed in to 43 different slack teams
